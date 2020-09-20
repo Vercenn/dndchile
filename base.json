@@ -42,17 +42,6 @@
 					]
 				}
 			],
-			"ability": [
-				{
-					"choose": {
-						"from": [
-							"dex",
-							"wis"
-						],
-						"amount": 1
-					}
-				}
-			]
 		},
 		{
 			"name": "Angelic Protection",
