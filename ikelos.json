@@ -33,11 +33,11 @@
 				}
 			],
 			"entries": [
-				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+				"0 ITHERIN\n0 ADMOS\n0 ERBOR\n0 TIERRAS LIBRES\n0 DORTH\n0 VALAKIR"
 			]
 		}, 
 		{
-			"name": "Renombres2",
+			"name": "Reputaciones",
 			"source": "DnDChile",
 			"prerequisite": [
 				{
@@ -49,7 +49,7 @@
 				}
 			],
 			"entries": [
-				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+				"0\u2028\tGREMIO DE AVENTUREROS\n0\u2028\tREMANENTES\n0\u2028\tSOLEN\n0\u2028\tTEMPLARIOS TZUNE\n0\u2028\tUNIVERSIDAD ARCANA\n0\u2028\tBRUJULA MAGICA\n0\u2028\tSECTA 4 ANILLOS\n0\u2028\tHIJOS REINA CUERVO\n0\u2028\tCIRCULO DE NYSLAM\n0\u2028\tOJO DE MIRILIR\n0\u2028\tGREMIO HERBOLARIOS\n0\u2028\tLIGA CANCION Y POESIA\n0\u2028\tARENA DE THEOS\n0\u2028\tGUARDIA ROJA\n0\u2028\tGREMIO MERCADERES"
 			]
 		},
 		{
@@ -65,7 +65,7 @@
 				}
 			],
 			"entries": [
-				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+				"0\u2028\tDias de Entreaventuras"
 			]
 		}
 	]
