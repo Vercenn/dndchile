@@ -48,8 +48,26 @@
 					]
 				}
 			],
+
 			"entries": [
-				"0\u2028\tGREMIO DE AVENTUREROS\n0\u2028\tREMANENTES\n0\u2028\tSOLEN\n0\u2028\tTEMPLARIOS TZUNE\n0\u2028\tUNIVERSIDAD ARCANA\n0\u2028\tBRUJULA MAGICA\n0\u2028\tSECTA 4 ANILLOS\n0\u2028\tHIJOS REINA CUERVO\n0\u2028\tCIRCULO DE NYSLAM\n0\u2028\tOJO DE MIRILIR\n0\u2028\tGREMIO HERBOLARIOS\n0\u2028\tLIGA CANCION Y POESIA\n0\u2028\tARENA DE THEOS\n0\u2028\tGUARDIA ROJA\n0\u2028\tGREMIO MERCADERES"
+				"0\u2028\tGREMIO DE AVENTUREROS\n0\u2028\tREMANENTES DE SOLEN\n0\u2028\tTEMPLARIOS DE TZUNE\n0\u2028\tUNIVERSIDAD ARCANA\n0\u2028\tBRUJULA MAGICA\n0\u2028\tSECTA DE LOS 4 ANILLOS\n0\u2028\tHIJOS DE LA REINA CUERVO\n0\u2028\tCIRCULO DE NYSLAM\n0\u2028\tOJO DE MIRILIR\n0\u2028\tGREMIO DE HERBOLARIOS\n0\u2028\tLIGA CANCION DE LA Y POESIA\n0\u2028\tARENA DE THEOS\n0\u2028\tGUARDIA ROJA\n0\u2028\tGREMIO DE MERCADERES"
+			]
+		},
+		{
+			"name": "Tokens de Tesoro",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+
+			"entries": [
+				"0\u2028\tTokens Tier 1\n0\u2028\tTokens Tier 2\n0\u2028\tTokens Tier 3"
 			]
 		},
 		{
@@ -65,7 +83,7 @@
 				}
 			],
 			"entries": [
-				"0\u2028\tDias de Entreaventuras"
+				"0\u2028\tDIAS DE ENTREAVENTURAS"
 			]
 		}
 	]
