@@ -1,0 +1,88 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DnDBeyond",
+				"abbreviation": "Bnd",
+				"full": "D&D Beyond",
+				"authors": [
+					"Adam Bradford"
+				],
+				"convertedBy": [
+					"TheGiddyLimit"
+				],
+				"version": "1.0.0",
+				"url": "https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Core/XGE%20Bonus%20-%20Expanded%20Racial%20Feats.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 1539373091,
+		"dateLastModified": 1539373091
+	},
+	"other": [
+		{
+			"name": "Renombres",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"0\u2028\tITHERIN\n0\u2028\tADMOS\n0\u2028\tERBOR\n0\u2028\tTIERRAS LIBRES\n0\u2028\tDORTH\n0\u2028\tVALAKIR"
+			]
+		}, 
+		{
+			"name": "Tokens de Tesoro",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"<table><thead>  <tr>    <th>Token T1</th>    <th>0</th>  </tr></thead><tbody>  <tr>    <td>Token T2</td>    <td>0</td>  </tr>  <tr>    <td>Token T3</td>    <td>0</td>  </tr></tbody></table>"
+			]
+		},
+		{
+			"name": "Reputaciones",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"GREMIO DE AVENTUREROS	0\nREMANENTES SOLEN		0\nTEMPLARIOS TZUNE		0\nUNIVERSIDAD ARCANA		0\nBRUJULA MAGICA			0\nSECTA 4 ANILLOS			0\nHIJOS REINA CUERVO		0\nCIRCULO DE NYSLAM		0\nOJO DE MIRILIR				0\nGREMIO HERBOLARIOS		0\nLIGA CANCION Y POESIA		0\nARENA DE THEOS			0\nGUARDIA ROJA				0\nGREMIO MERCADERES		0"
+			]
+		},
+		{
+			"name": "Dias de Entreaventuras",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"0 Dias de Entreaventuras"
+			]
+		}
+	]
+}
