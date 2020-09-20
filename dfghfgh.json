@@ -55,19 +55,19 @@
 			]
 		},
 		{
-			"name": "Angelic Protection",
-			"source": "DnDBeyond",
+			"name": "Renombres",
+			"source": "DnDChile",
 			"prerequisite": [
 				{
 					"race": [
 						{
-							"name": "aasimar"
+							"name": "aweonao"
 						}
 					]
 				}
 			],
 			"entries": [
-				"Name:RenombreITHERIN0ADMOS0ERBOR0TIERRAS\nLIBRES0DORTH0VALAKIR0"
+				"Name:\tRenombre\nITHERIN\t\t0\nADMOS\t\t0\nERBOR\t\t0\nTIERRAS LIBRES\t\t0\nDORTH\t\t0\nVALAKIR\t\t0"
 			]
 		},
 		{
