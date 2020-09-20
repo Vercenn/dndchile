@@ -1,0 +1,72 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DnDBeyond",
+				"abbreviation": "Bnd",
+				"full": "D&D Beyond",
+				"authors": [
+					"Adam Bradford"
+				],
+				"convertedBy": [
+					"TheGiddyLimit"
+				],
+				"version": "1.0.0",
+				"url": "https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Core/XGE%20Bonus%20-%20Expanded%20Racial%20Feats.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 1539373091,
+		"dateLastModified": 1539373091
+	},
+	"feat": [
+		{
+			"name": "Renombres",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+			]
+		}, 
+		{
+			"name": "Renombres2",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+			]
+		},
+		{
+			"name": "Renombres3",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+			]
+		}
+	]
+}
