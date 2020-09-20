@@ -19,7 +19,7 @@
 		"dateAdded": 1539373091,
 		"dateLastModified": 1539373091
 	},
-	"feat": [
+	"other": [
 		{
 			"name": "Renombres",
 			"source": "DnDChile",
@@ -33,11 +33,11 @@
 				}
 			],
 			"entries": [
-				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+				"0\u2028\tITHERIN\n0\u2028\tADMOS\n0\u2028\tERBOR\n0\u2028\tTIERRAS LIBRES\n0\u2028\tDORTH\n0\u2028\tVALAKIR"
 			]
 		}, 
 		{
-			"name": "Renombres2",
+			"name": "Tokens de Tesoro",
 			"source": "DnDChile",
 			"prerequisite": [
 				{
@@ -49,11 +49,11 @@
 				}
 			],
 			"entries": [
-				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+				"<table><thead>  <tr>    <th>Token T1</th>    <th>0</th>  </tr></thead><tbody>  <tr>    <td>Token T2</td>    <td>0</td>  </tr>  <tr>    <td>Token T3</td>    <td>0</td>  </tr></tbody></table>"
 			]
 		},
 		{
-			"name": "Renombres3",
+			"name": "Reputaciones",
 			"source": "DnDChile",
 			"prerequisite": [
 				{
@@ -65,7 +65,23 @@
 				}
 			],
 			"entries": [
-				"Name:\tRenombre\nITHERIN\u2028\t0\nADMOS\u2028\t0\nERBOR\u2028\t0\nTIERRAS LIBRES\u2028\t0\nDORTH\u2028\t0\nVALAKIR\u2028\u2029 0"
+				"GREMIO DE AVENTUREROS	0\nREMANENTES SOLEN		0\nTEMPLARIOS TZUNE		0\nUNIVERSIDAD ARCANA		0\nBRUJULA MAGICA			0\nSECTA 4 ANILLOS			0\nHIJOS REINA CUERVO		0\nCIRCULO DE NYSLAM		0\nOJO DE MIRILIR				0\nGREMIO HERBOLARIOS		0\nLIGA CANCION Y POESIA		0\nARENA DE THEOS			0\nGUARDIA ROJA				0\nGREMIO MERCADERES		0"
+			]
+		},
+		{
+			"name": "Dias de Entreaventuras",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"0 Dias de Entreaventuras"
 			]
 		}
 	]
