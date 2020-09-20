@@ -27,9 +27,15 @@ Charsheet.Generate = function(msg) {
             archived: false,
             inplayerjournals: 'all',
             controlledby: msg.playerid
+        });  
+    
+        createObj('attribute', {
+            name: 'player_name',
+            current: traits,
+            source= Others:Aventutero del Abrazo,
+            description='Renombre /n prueba /t 0 /nchupalo',
+            _characterid: character.id
         });
-
-        /* Create attributes */
         createObj('attribute', {
             name: 'player_name',
             current: player,
