@@ -1,17 +1,65 @@
-{"feat":
- 	[
-		{"name":"Aberrant Dragonmark","source":"ERLW","page":52,"otherSources":
-		 	[
-				{"source":"UAWGE","page":112}],
-	"prerequisite":
-		 [
-			 {"other":"No other dragonmark"
-			 }],
-	"ability":[
-			 {"con":1
-			 }],
-	"entries":[
-		"You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:",
-	{"type":"list","items":
-	 ["You learn a {@filter cantrip of your choice from the sorcerer spell list|spells|level=0|class=Sorcerer}. In addition, choose a {@filter 1st-level spell from the sorcerer spell list|spells|level=1|class=Sorcerer}. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.",
-	  "When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage."]},"You also develop a random flaw from the Aberrant Dragonmark Flaws table.",{"type":"table","caption":"Aberrant Dragonmark Flaws","colLabels":["d8","Flaw"],"colStyles":["col-2 text-center","col-10"],"rows":[["1","Your mark is a source of constant physical pain."],["2","Your mark whispers to you. Its meaning can be unclear."],["3","When you're stressed, the mark hisses audibly."],["4","The skin around the mark is burned, scaly, or withered."],["5","Animals are uneasy around you."],["6","You have a mood swing any time you use your mark."],["7","Your looks change slightly whenever you use the mark."],["8","You have horrific nightmares after you use your mark."]]},{"type":"section","entries":[{"type":"entries","entries":[{"type":"entries","name":"Option: Greater Aberrant Powers","entries":["At the DM's option, a character who has the Aberrant Dragonmark feat has a chance of manifesting greater power. Upon reaching 10th level, such a character has a 10 percent chance of gaining an {@filter epic boon|rewards|type=boon} from among the options in chapter 7 of the {@book Dungeon Master's Guide|DMG}. If the character fails to gain a boon, they have a 10 percent chance the next time they gain a level.","If the character gains a boon, the DM chooses it or determines it randomly. The character also permanently loses one of their Hit Dice, and their hit point maximum is reduced by an amount equal to a roll of that die plus their Constitution modifier (minimum reduction of 1). This reduction can't be reversed by any means."]}]}]}]}
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "9F",
+				"abbreviation": "9F",
+				"full": "9 New Feats",
+				"authors": [
+					"Gadget Blanchard"
+				],
+				"convertedBy": [
+					"Modnar"
+				],
+				"version": "1.0",
+				"url": "https://www.dmsguild.com/product/192605/9-New-Feats",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1548505822,
+		"dateLastModified": 1548505822
+	},
+	"feat": [
+		{
+			"name": "Bonded Companion",
+			"source": "9F",
+			"prerequisite": [
+				{
+					"other": "a pet, animal companion, familiar or steed"
+				}
+			],
+			"entries": [
+				"You have spent your time bonding with and training your creature to enhance their abilities. Your connection with them becomes so strong that you feel their pain and they feel yours.",
+				"After bonding with a companion you can use future feats to bond further with them as listed below. These additional feats can be taken multiple times.",
+				{
+					"type": "inset",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Level up",
+							"entries": [
+								"Your creature gains an additional hit dice in HP permanently and gets a +1 to all attacks."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Shared pain",
+							"entries": [
+								"You can divert half the damage you take in one blow to your creature. You can also take half the damage your creature gets hit with in one blow on yourself.",
+								"You can use your hit dice to heal your creature during a short rest in the same way that you would heal yourself and you gain an additional hit dice back during a long rest.",
+								"You can {@i share the pain} as many times as your characters level between long rests. You must both be on the same plane of existence to {@i share the pain}."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Comforting presence",
+							"entries": [
+								"You always know the direction your creature is and their distance from you as long as they are on the same plane of existence. They also know where to find you.",
+								"You can feel their life force no matter where they are and tell when they get injured. They can also tell when you get injured.",
+								"Unless given instructions otherwise they will try to come to your aid any time you take an injury. No matter their instructions they will stand over you and defend you when you reach 0HP."
+							]
+						}
+					]
+				}
+			]
+		}
