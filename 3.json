@@ -1,0 +1,72 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DnDBeyond",
+				"abbreviation": "Bnd",
+				"full": "D&D Beyond",
+				"authors": [
+					"Adam Bradford"
+				],
+				"convertedBy": [
+					"TheGiddyLimit"
+				],
+				"version": "1.0.0",
+				"url": "https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Core/XGE%20Bonus%20-%20Expanded%20Racial%20Feats.pdf",
+				"targetSchema": "1.1.2"
+			}
+		],
+		"dateAdded": 1539373091,
+		"dateLastModified": 1539373091
+	},
+	"feat": [
+		{
+			"name": "Renombres",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"0 ITHERIN\n0 ADMOS\n0 ERBOR\n0 TIERRAS LIBRES\n0 DORTH\n0 VALAKIR"
+			]
+		}, 
+		{
+			"name": "Reputaciones",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"0\u2028\tGREMIO DE AVENTUREROS\n0\u2028\tREMANENTES\n0\u2028\tSOLEN\n0\u2028\tTEMPLARIOS TZUNE\n0\u2028\tUNIVERSIDAD ARCANA\n0\u2028\tBRUJULA MAGICA\n0\u2028\tSECTA 4 ANILLOS\n0\u2028\tHIJOS REINA CUERVO\n0\u2028\tCIRCULO DE NYSLAM\n0\u2028\tOJO DE MIRILIR\n0\u2028\tGREMIO HERBOLARIOS\n0\u2028\tLIGA CANCION Y POESIA\n0\u2028\tARENA DE THEOS\n0\u2028\tGUARDIA ROJA\n0\u2028\tGREMIO MERCADERES"
+			]
+		},
+		{
+			"name": "Dias de Entreaventura",
+			"source": "DnDChile",
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "tellible aweonao"
+						}
+					]
+				}
+			],
+			"entries": [
+				"0\u2028\tDias de Entreaventuras"
+			]
+		}
+	]
+}
